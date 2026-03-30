@@ -1,0 +1,7 @@
+{
+  "name": "AluID Pro",
+  "description": "Aplicación para ayudar a operarios a identificar perfiles de aluminio mediante fotos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
